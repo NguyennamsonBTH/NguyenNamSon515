@@ -16298,6 +16298,11 @@
   "RootNamespace": "NguyenNamSon515",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\ASUS\\OneDrive\\Desktop\\NguyenNamSon515\\Views\\UniversityNNS515\\Delete.cshtml",
+      "TargetPath": "Views\\UniversityNNS515\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ASUS\\OneDrive\\Desktop\\NguyenNamSon515\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -16308,8 +16313,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ASUS\\OneDrive\\Desktop\\NguyenNamSon515\\Views\\UniversityNNS515\\Create.cshtml",
+      "TargetPath": "Views\\UniversityNNS515\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ASUS\\OneDrive\\Desktop\\NguyenNamSon515\\Views\\UniversityNNS515\\Read.cshtml",
+      "TargetPath": "Views\\UniversityNNS515\\Read.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ASUS\\OneDrive\\Desktop\\NguyenNamSon515\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ASUS\\OneDrive\\Desktop\\NguyenNamSon515\\Views\\UniversityNNS515\\Update.cshtml",
+      "TargetPath": "Views\\UniversityNNS515\\Update.cshtml",
       "FileKind": "mvc"
     },
     {
