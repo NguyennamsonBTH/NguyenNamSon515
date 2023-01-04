@@ -4,7 +4,7 @@ namespace NguyenNamSon515.Models
 {
    public class UniversityNNS515
    {
-    public int UniversityID {get; get}
-    public string UniversityName {get; get;}
+    public int? UniversityID { get; set; }
+    public string? UniversityName { get; set;}
    }
 }

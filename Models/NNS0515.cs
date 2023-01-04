@@ -4,8 +4,8 @@ namespace NguyenNamSon515.Models
 {
     public class NNS0515
     {
-        public int NNSId {}
-        public string NNSName {}
-        public string NNSGender {}
+        public int? NNSId { get; set; }
+        public string? NNSName { get; set; }
+        public string? NNSGender { get; set; }
     }
 }
